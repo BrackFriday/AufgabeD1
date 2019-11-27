@@ -1,0 +1,9 @@
+<!ATTLIST person id CDATA #REQUIRED>
+        <!ELEMENT name (#PCDATA)>
+        <!ELEMENT vorname (#PCDATA)>
+        <!ELEMENT geburtsdatum (#PCDATA)>
+        <!ELEMENT postleitzahl (#PCDATA)>
+        <!ELEMENT ort (#PCDATA)>
+        <!ELEMENT hobby (#PCDATA)>
+        <!ELEMENT lieblingsgericht (#PCDATA)>
+        <!ELEMENT lieblingsband (#PCDATA)>
